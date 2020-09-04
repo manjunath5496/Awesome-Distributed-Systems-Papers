@@ -20,7 +20,7 @@ distributed systems in the presence of sodware errors</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(7).pdf" style="text-decoration:none;">MAGE: A Distributed Programming Model</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(8).pdf" style="text-decoration:none;"> Impossibility of Distributed Consensus with One Faulty Process </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(9).pdf" style="text-decoration:none;">Relation Extraction: A Survey</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(9).pdf" style="text-decoration:none;">Notes on Theory of Distributed Systems</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(10).pdf" style="text-decoration:none;">Kafka: a Distributed Messaging System for Log Processing</a></li>                              
@@ -38,5 +38,7 @@ Distributed Computing</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(17).pdf" style="text-decoration:none;"> Logic and Lattices for Distributed Programming</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(18).pdf" style="text-decoration:none;">Verdi: A Framework for Implementing and Formally Verifying Distributed Systems</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Awesome-Distributed-Systems-Papers/blob/master/awe(19).pdf" style="text-decoration:none;">Introduction to Distributed Systems</a></li> 
 
 </ul>
